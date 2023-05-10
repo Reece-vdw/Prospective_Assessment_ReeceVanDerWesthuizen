@@ -1,0 +1,31 @@
+3.1
+We can make a webpage more responsive by:
+•	Using responsive design frameworks such as Bootstrap, which provides pre-built CSS classes 
+•	Use media queries to adjust the layout based on device screen size. 
+•	Testing on various devices to see responsiveness. 
+•	Using smaller sized media to reduce loading times. 
+•	Use fluid layouts instead of fixed-width layouts
+3.2
+The benefits of bundling .js scripts into one file are:
+•	Faster loading times 
+•	Improved caching
+•	Easier maintenance 
+•	Overall better performance and maintainability 
+3.3
+To ensure that the browser understands Sass styling, you need to compile the Sass code into regular CSS code
+
+Here are the steps to compile Sass code :
+1.	Install a Sass compiler
+2.	Create a Sass file
+3.	Compile the Sass file
+4.	Link the compiled CSS file
+
+
+
+3.4
+To ensure compatibility for newer versions of javascript we can do the following : 
+•	Use a transpiler: A transpiler is a tool that converts newer versions of JavaScript into an older version of JavaScript that is more widely supported by browsers.
+•	Use polyfills: A polyfill is a piece of code that adds functionality to older browsers that do not support newer features of JavaScript
+
+
+

@@ -1,0 +1,26 @@
+<div id="firstDiv" class="red-card">
+  <div id="secondDiv" class="red-card">
+    <style>
+      #secondDiv {
+        background: orange;
+      }
+
+      div {
+        height: 150px;
+        width: 150px;
+        background: green;
+      }
+
+      .red-card {
+        background: red;
+      }
+
+      .yellow-card {
+        background: yellow;
+      }
+    </style>
+    <script>
+      document.getElementById("secondDiv").classList.add("yellow-card");
+    </script>
+  </div>
+</div>
